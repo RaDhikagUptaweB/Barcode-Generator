@@ -17,3 +17,22 @@
     padding: 3rem;
     border-radius: 0.8em;
   }
+  h1 {
+    font-size: 2em;
+    margin-bottom: 1em;
+  }
+  input {
+    width: 60%;
+    border: 1px solid #000000;
+    padding: 1em;
+    border-radius: 0.7em;
+  }
+  button {
+    background-color: #0092fd;
+    color: #ffffff;
+    border: none;
+    width: 38%;
+    border-radius: 0.7em;
+    padding: 1em;
+    font-size: 0.8em;
+  }
